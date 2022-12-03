@@ -1,0 +1,50 @@
+{
+"frames": {
+	"disabled.png": {
+		"frame": {"x":242, "y":0, "w":237, "h":237},
+		"spriteSourceSize": {"x":0,"y":0,"w":237,"h":237},
+		"sourceSize": {"w":237,"h":237}
+	},
+	"down.png": {
+		"frame": {"x":484, "y":0, "w":237, "h":237},
+		"spriteSourceSize": {"x":0,"y":0,"w":237,"h":237},
+		"sourceSize": {"w":237,"h":237}
+	},
+	"hover.png": {
+		"frame": {"x":242, "y":484, "w":237, "h":237},
+		"spriteSourceSize": {"x":0,"y":0,"w":237,"h":237},
+		"sourceSize": {"w":237,"h":237}
+	},
+	"normal.png": {
+		"frame": {"x":242, "y":242, "w":237, "h":237},
+		"spriteSourceSize": {"x":0,"y":0,"w":237,"h":237},
+		"sourceSize": {"w":237,"h":237}
+	},
+	"stop_disabled.png": {
+		"frame": {"x":484, "y":242, "w":237, "h":237},
+		"spriteSourceSize": {"x":0,"y":0,"w":237,"h":237},
+		"sourceSize": {"w":237,"h":237}
+	},
+	"stop_down.png": {
+		"frame": {"x":0, "y":484, "w":237, "h":237},
+		"spriteSourceSize": {"x":0,"y":0,"w":237,"h":237},
+		"sourceSize": {"w":237,"h":237}
+	},
+	"stop_hover.png": {
+		"frame": {"x":0, "y":242, "w":237, "h":237},
+		"spriteSourceSize": {"x":0,"y":0,"w":237,"h":237},
+		"sourceSize": {"w":237,"h":237}
+	},
+	"stop_normal.png": {
+		"frame": {"x":0, "y":0, "w":237, "h":237},
+		"spriteSourceSize": {"x":0,"y":0,"w":237,"h":237},
+		"sourceSize": {"w":237,"h":237}
+	}
+
+},
+"meta": {
+	"image": "spin_button.png",
+	"size": {"w": 726, "h": 726},
+	"scale": "1"
+}
+}
